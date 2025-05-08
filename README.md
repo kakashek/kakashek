@@ -11,7 +11,7 @@
   - Web/ App Development
   - Cloud Platforms (AWS)
  
----
+
 
 ### 🔧 Tech Stack
 
@@ -20,7 +20,7 @@
 - **Tools**: Power BI, Docker, Git, Postman
 - **Cloud**: AWS (EC2, S3, Cognito etc.)
 
----
+
 
 ### 📊 Projects
 
@@ -36,7 +36,7 @@
   Full-stack meme generator with AWS deployment, user auth, and cloud storage  
   → [View on GitHub](https://github.com/kakashek/meme-generator-aws)
 
----
+
 
 ### 📫 Let's Connect!
 
