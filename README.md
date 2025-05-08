@@ -1,14 +1,18 @@
 ## 👋 Hi there! I'm Arnald
 
+---
+
 ### 🧠 About Me
 
 -  Data Science | Data Analytics | Information System | Software Development
--  Previously co-founded a startup —**[MyLifeAdd](https://www.mylifeadd.com)**, an insurance comparison platform in Hong Kong, helping users make smarter financial decisions when purchasing insurance products
+-  Previously co-founded a startup — **[MyLifeAdd](https://www.mylifeadd.com)**, an insurance comparison platform in Hong Kong, helping users make smarter financial decisions when purchasing insurance products
 - Experienced in:
   - Machine Learning & NLP
   - Business Intelligence (Power BI, Excel) & Data Visualization 
   - Web/ App Development
   - Cloud Platforms (AWS)
+ 
+---
 
 ### 🔧 Tech Stack
 
@@ -16,6 +20,8 @@
 - **Libraries/Frameworks**: Pandas, Scikit-learn, PyTorch, TensorFlow, Hugging Face, Laravel, Vue.js
 - **Tools**: Power BI, Docker, Git, Postman
 - **Cloud**: AWS (EC2, S3, Cognito etc.)
+
+---
 
 ### 📊 Projects
 
@@ -31,7 +37,9 @@
   Full-stack meme generator with AWS deployment, user auth, and cloud storage  
   → [View on GitHub](https://github.com/kakashek/meme-generator-aws)
 
-  ### 📫 Let's Connect!
+---
+
+### 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arnaldshek)
 - 📬 Reach me at: arnaldshek@gmail.com
