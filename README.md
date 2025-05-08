@@ -8,7 +8,7 @@ Data Science | Data Analytics | Information System | Software Development
 -  Previously co-founded a startup — **[MyLifeAdd](https://www.mylifeadd.com)**, an insurance comparison platform in Hong Kong, helping users make smarter financial decisions when purchasing insurance products
 - Experienced in:
   - Machine Learning & NLP
-  - Business Intelligence (Power BI, Excel) & Data Visualization 
+  - Business Intelligence & Data Visualization 
   - Web/ App Development
   - Cloud Platforms (AWS)
  
