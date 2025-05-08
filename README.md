@@ -1,5 +1,5 @@
 #  Hi there! I'm Arnald
-A data enthusiast eager to explore and develop new project or startup ideas 
+💡 Data enthusiast eager to explore and develop new project or startup ideas 
 
 ## About Me
 
