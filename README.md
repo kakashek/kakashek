@@ -1,9 +1,10 @@
 #  Hi there! I'm Arnald
 
 
-### 🧠 About Me
+### About Me
+___
 
--  Data Science | Data Analytics | Information System | Software Development
+Data Science | Data Analytics | Information System | Software Development
 -  Previously co-founded a startup — **[MyLifeAdd](https://www.mylifeadd.com)**, an insurance comparison platform in Hong Kong, helping users make smarter financial decisions when purchasing insurance products
 - Experienced in:
   - Machine Learning & NLP
@@ -11,9 +12,9 @@
   - Web/ App Development
   - Cloud Platforms (AWS)
  
-***
 
-### 🔧 Tech Stack
+### Tech Stack
+___
 
 - **Languages**: Python, SQL, JavaScript, R, PHP, C#
 - **Libraries/Frameworks**: Pandas, Scikit-learn, PyTorch, TensorFlow, Hugging Face, Laravel, Vue.js
@@ -22,7 +23,8 @@
 
 ***
 
-### 📊 Projects
+### Repos
+___
 
 - **Code Vulnerability Detection with BERT**  
   A fine-tuned transformer-based model to detect vulnerable code blocks in C/C++
@@ -39,7 +41,8 @@
 ***
 
 ### Connect With Me
+___
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/arnaldshek)
-- 📬 Reach me at: arnaldshek@gmail.com
+- 💼 Linkedin: [LinkedIn](https://www.linkedin.com/in/arnaldshek)
+- 📬 Email: arnaldshek@gmail.com
 
