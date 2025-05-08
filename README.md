@@ -1,7 +1,7 @@
 #  Hi there! I'm Arnald
 
 
-### About Me
+## About Me
 ___
 
 Data Science | Data Analytics | Information System | Software Development
@@ -13,7 +13,7 @@ Data Science | Data Analytics | Information System | Software Development
   - Cloud Platforms (AWS)
  
 
-### Tech Stack
+## Tech Stack
 ___
 
 - **Languages**: Python, SQL, JavaScript, R, PHP, C#
@@ -21,9 +21,9 @@ ___
 - **Tools**: Power BI, Docker, Git, Postman
 - **Cloud**: AWS (EC2, S3, Cognito etc.)
 
-***
 
-### Repos
+
+## Repos
 ___
 
 - **Code Vulnerability Detection with BERT**  
@@ -38,9 +38,9 @@ ___
   Full-stack meme generator with AWS deployment, user auth, and cloud storage  
   → [View on GitHub](https://github.com/kakashek/meme-generator-aws)
 
-***
 
-### Connect With Me
+
+## Connect With Me
 ___
 
 - 💼 Linkedin: [LinkedIn](https://www.linkedin.com/in/arnaldshek)
