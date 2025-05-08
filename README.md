@@ -1,6 +1,5 @@
 ## 👋 Hi there! I'm Arnald
 
----
 
 ### 🧠 About Me
 
