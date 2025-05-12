@@ -25,13 +25,13 @@ Data Science | Data Analytics | Information System | Software Development
 
 ## Repos
 
-### **Web & Cloud Development**
+#### **Web & Cloud Development**
 - **Meme Generator Web App**  
   Full-stack meme generator web app using Express, deployed on AWS, with EC2/ ECS, S3, Lambda, DynamoDB, and Cognito, Route 53, ElastiCache etc.
   → [View on GitHub](https://github.com/kakashek/meme-generator-aws)
 
 
-### **Machine Learning & Statistical Modelling**
+#### **Machine Learning & Statistical Modelling**
 - **Code Vulnerability Detection with BERT**  
   A fine-tuned transformer-based model to detect vulnerable code blocks in C/C++ with REACT frontend
   → [View on GitHub](https://github.com/kakashek/code-vulnerability-analysis-BERT)
