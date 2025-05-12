@@ -33,7 +33,7 @@ Data Science | Data Analytics | Information System | Software Development
 
 #### **Machine Learning & Statistical Modelling**
 - **Code Vulnerability Detection with BERT**  
-  A fine-tuned transformer-based model to detect vulnerable code blocks in C/C++ with REACT frontend
+  A fine-tuned transformer-based model to detect vulnerable code blocks in C/C++ with REACT frontend and FastAPI backend
   → [View on GitHub](https://github.com/kakashek/code-vulnerability-analysis-BERT)
 
 - **Credit Risk Prediction Model**  
