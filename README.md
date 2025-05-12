@@ -35,7 +35,7 @@ Data Science | Data Analytics | Information System | Software Development
   → [View on GitHub](https://github.com/kakashek/credit-risk-prediction-modelling)
 
 - **Meme Generator Web App**  
-  Full-stack meme generator web app deployed on AWS,   user auth, and cloud storage  
+  Full-stack meme generator web app using Express, deployed on AWS, with EC2/ ECS, S3, Lambda, DynamoDB, and Cognito, Route 53, ElastiCache etc.
   → [View on GitHub](https://github.com/kakashek/meme-generator-aws)
 
 
