@@ -25,18 +25,24 @@ Data Science | Data Analytics | Information System | Software Development
 
 ## Repos
 
+### **Web & Cloud Development**
+- **Meme Generator Web App**  
+  Full-stack meme generator web app using Express, deployed on AWS, with EC2/ ECS, S3, Lambda, DynamoDB, and Cognito, Route 53, ElastiCache etc.
+  → [View on GitHub](https://github.com/kakashek/meme-generator-aws)
 
+
+### **Machine Learning & Statistical Modelling**
 - **Code Vulnerability Detection with BERT**  
-  A fine-tuned transformer-based model to detect vulnerable code blocks in C/C++
+  A fine-tuned transformer-based model to detect vulnerable code blocks in C/C++ with REACT frontend
   → [View on GitHub](https://github.com/kakashek/code-vulnerability-analysis-BERT)
 
 - **Credit Risk Prediction Model**  
   Logistic regression model for loan default prediction using feature selection and statistical testing  
   → [View on GitHub](https://github.com/kakashek/credit-risk-prediction-modelling)
 
-- **Meme Generator Web App**  
-  Full-stack meme generator web app using Express, deployed on AWS, with EC2/ ECS, S3, Lambda, DynamoDB, and Cognito, Route 53, ElastiCache etc.
-  → [View on GitHub](https://github.com/kakashek/meme-generator-aws)
+- **Mobile App Monetization Prediction**
+  Machine learning project to analyze and predict in-app purchases (IAP) values of mobile games to uncover monetization patterns for app developers. 
+  → [View on GitHub](https://github.com/kakashek/mobile-app-monetization-prediction)
 
 
 
